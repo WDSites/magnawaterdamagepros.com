@@ -193,7 +193,7 @@ main h2,main h3{scroll-margin-top:20px}
 .byline{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--gray);margin-bottom:6px}
 /* footer */
 footer.sitefoot{background:var(--char-d);color:var(--soft);padding:46px 0 30px;font-size:14.5px}
-footer.sitefoot .wrap{display:grid;grid-template-columns:2fr 1fr 1fr 1.2fr;gap:32px}
+footer.sitefoot .wrap{display:grid;grid-template-columns:1.7fr 1.1fr 1.2fr 1fr 1fr;gap:32px}
 footer.sitefoot h2{color:#fff;font-size:16px;margin-bottom:12px}
 footer.sitefoot a{color:var(--soft);text-decoration:none;display:block;margin-bottom:7px}
 footer.sitefoot a:hover{color:var(--amber)}
